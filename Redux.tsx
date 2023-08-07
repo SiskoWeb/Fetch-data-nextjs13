@@ -22,3 +22,7 @@ export default async function Edit({
     </>
   );
 }
+
+thene call it :   const product = useAppSelector(
+    (state) => state.products.GetOneProduct
+  );
